@@ -3,7 +3,11 @@
 <h3 align="center">A passionate coder and enthusiast trader from india</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahe243&label=Profile%20views&color=0e75b6&style=flat" alt="mahe243" /> </p>
+<div style="display: flex; align-items: center;">
+  <p style="margin-right: 10px;">Profile Views:</p>
+  <img src="https://komarev.com/ghpvc/?username=mahe243&label=&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahe243" alt="mahe243" /></a> </p>
 
